@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/80eb38df-0a56-4776-a04d-bdd5482dd295/resourceGroups/meomeoshop_group/providers/Microsoft.Web/sites/meomeoshop",
+    "appService.deploySubpath": "."
+}

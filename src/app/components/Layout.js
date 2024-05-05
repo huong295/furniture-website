@@ -29,8 +29,10 @@ const Layout = ({ children }) => {
         </aside>
         <main className="flex-1">
           {/* Your main content goes here */}
-          <Banner/>
-          <ProductList />
+       {/* <Banner/>
+
+          <ProductList /> */}
+          {children}
           
         </main>
       </div>
