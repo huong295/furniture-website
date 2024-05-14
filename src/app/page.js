@@ -4,6 +4,7 @@ import Layout from "./components/Layout";
 import Banner from "./components/Banner/Banner";
 import ProductList from "./components/ProductList/ProductList";
 import { SessionProvider } from 'next-auth/react';
+ export const runtime = 'edge';
 export default function App() {
 
     return (
